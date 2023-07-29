@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Tetris-sneakers/static/css/main.27e4e9d9.css",
+    "main.js": "/Tetris-sneakers/static/js/main.5ca52eaa.js",
+    "static/media/Nike-Air-Max-97-Silver-Bullet-4.jpg": "/Tetris-sneakers/static/media/Nike-Air-Max-97-Silver-Bullet-4.dade4badd7b6c3c09a4a.jpg",
+    "index.html": "/Tetris-sneakers/index.html",
+    "main.27e4e9d9.css.map": "/Tetris-sneakers/static/css/main.27e4e9d9.css.map",
+    "main.5ca52eaa.js.map": "/Tetris-sneakers/static/js/main.5ca52eaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27e4e9d9.css",
+    "static/js/main.5ca52eaa.js"
+  ]
+}
